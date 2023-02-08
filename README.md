@@ -18,6 +18,8 @@ or
 
 follow these [manual setup instructions on Repl.it](https://docs.replit.com/programming-ide/using-git-on-replit/running-github-repositories-replit)
 
+To view the application you click **Run** from within Repl.it which should also open up the Webview pane.
+
 <br>
 
 ## Deliverable
